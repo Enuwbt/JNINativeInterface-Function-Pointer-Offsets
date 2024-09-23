@@ -1,6 +1,6 @@
 # JNINativeInterface-Function-Pointer-Offsets
 
-| オフセット (バイト) | 関数名                              |
+| offset              | function                          |
 |---------------------|-----------------------------------|
 | 0                   | reserved0                         |
 | 8                   | reserved1                         |
